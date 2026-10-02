@@ -1,11 +1,19 @@
-# OpenFabric Studio — website
+# OpenFabric Studio Website
 
-Marketing / landing site for [OpenFabric Studio](https://openfabric.studio).
+Marketing site for [OpenFabric Studio](https://github.com/OpenFabric-Studio/openfabric-studio) — a local AI studio for music, voice, and consistent characters.
 
-App repository: https://github.com/OpenFabric-Studio/openfabric-studio
+## Local preview
 
-Brand: indigo (`#4F46E5` / `#6366F1`) on near-black.
+Open `index.html` in a browser, or serve the folder:
+
+```bash
+python3 -m http.server 8080
+```
+
+## Deploy
+
+Pushes to `main` deploy via GitHub Pages (`.github/workflows/pages.yml`).
 
 ## License
 
-MIT. See `LICENSE` and `NOTICE` (site presentation derived from the Remiqora docs landing under MIT).
+MIT — see `LICENSE` and `NOTICE`.
