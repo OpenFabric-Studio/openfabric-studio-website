@@ -1,0 +1,31 @@
+# OpenFabric Studio
+
+> Local AI studio for music production, singing and speaking voice cloning, and consistent characters for music videos and reels. Private, on your machine. Open source (MIT).
+
+OpenFabric Studio is a desktop application that runs AI models locally — no cloud upload required for your creative work. Built for creators who want voice cloning, music generation, and character consistency without shipping data to a SaaS.
+
+## Links
+
+- Website: https://www.openfabric.studio/
+- App (source): https://github.com/OpenFabric-Studio/openfabric-studio
+- Website (source): https://github.com/OpenFabric-Studio/openfabric-studio-website
+- Organization: https://github.com/OpenFabric-Studio
+- License: MIT (see app and website repositories)
+
+## Product pillars
+
+- Voice — clone singing and speaking voices for covers, narration, and audiobooks; samples stay on disk
+- Music — generate and shape tracks locally without subscription quotas
+- Characters — consistent faces/looks across music videos and short-form reels
+- Local-first — models and projects run on your hardware; offline-friendly
+
+## Site pages
+
+- / — marketing landing (features, how it works, open source CTA)
+- /robots.txt — crawl rules
+- /sitemap.xml — URL index
+- /llms.txt — this file
+
+## Optional
+
+- GitHub Releases / README in the app repo for install and usage details
